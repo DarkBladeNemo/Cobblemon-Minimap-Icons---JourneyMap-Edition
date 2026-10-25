@@ -1,182 +1,177 @@
 {
-  "species": "cobblemon:pikachu",
   "order": 0,
+  "species": "cobblemon:pikachu",
   "variations": [
     {
       "aspects": [],
-      "poser": "cobblemon:pikachu",
-      "model": "cobblemon:pikachu_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu.png",
       "layers": [
         {
+          "emissive": true,
           "name": "emissive",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_emissive.png",
-          "emissive": true,
           "translucent": false
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_male.geo",
+      "poser": "cobblemon:pikachu",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu.png"
     },
     {
       "aspects": [
         "shiny"
       ],
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_shiny.png",
       "layers": [
         {
+          "emissive": true,
           "name": "emissive",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_emissive_shiny.png",
-          "emissive": true,
           "translucent": false
         }
-      ]
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_shiny.png"
     },
     {
       "aspects": [
         "female"
       ],
-      "poser": "cobblemon:pikachu",
-      "model": "cobblemon:pikachu_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female.png",
       "layers": [
         {
+          "emissive": true,
           "name": "emissive",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_emissive.png",
-          "emissive": true,
           "translucent": false
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_female.geo",
+      "poser": "cobblemon:pikachu",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female.png"
     },
     {
       "aspects": [
         "shiny",
         "female"
       ],
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_shiny.png",
       "layers": [
         {
+          "emissive": true,
           "name": "emissive",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_emissive_shiny.png",
-          "emissive": true,
           "translucent": false
         }
-      ]
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_shiny.png"
     },
     {
       "aspects": [
         "cosmetic_item-rage_candy_bar"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_original.png",
       "layers": [
         {
           "name": "original",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_original.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_original.png"
     },
     {
       "aspects": [
         "cosmetic_item-pewter_crunchies"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_partner.png",
       "layers": [
         {
           "name": "partner",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_partner.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_partner.png"
     },
     {
       "aspects": [
         "cosmetic_item-lava_cookie"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_hoenn.png",
       "layers": [
         {
           "name": "hoenn",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_hoenn.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_hoenn.png"
     },
     {
       "aspects": [
         "cosmetic_item-old_gateau"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_sinnoh.png",
       "layers": [
         {
           "name": "sinnoh",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_sinnoh.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_sinnoh.png"
     },
     {
       "aspects": [
         "cosmetic_item-casteliacone"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_unova.png",
       "layers": [
         {
           "name": "unova",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_unova.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_unova.png"
     },
     {
       "aspects": [
         "cosmetic_item-lumiose_galette"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_kalos.png",
       "layers": [
         {
           "name": "kalos",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_kalos.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_kalos.png"
     },
     {
       "aspects": [
         "cosmetic_item-big_malasada"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola.png",
       "layers": [
         {
           "name": "alola",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_alola.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola.png"
     },
     {
       "aspects": [
         "cosmetic_item-smoked_tail_curry"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_world.png",
       "layers": [
         {
           "name": "world",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_world.png"
         }
-      ]
-    },
-    {
-      "aspects": [
-        "cosmetic_item-compass"
       ],
-      "model": "cobblemon:pikachu_captain_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap.png",
-      "layers": [
-        {
-          "name": "captain",
-          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
-        }
-      ]
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_world.png"
     },
     {
       "aspects": [
@@ -189,179 +184,187 @@
       "aspects": [
         "cosmetic_item-leather_helmet"
       ],
-      "model": "cobblemon:pikachu_detective_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_harry.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_detective_male.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_harry.png"
     },
     {
       "aspects": [
         "cosmetic_item-sinister_tea"
       ],
-      "model": "cobblemon:pikachu_detective_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_harry.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_detective_male.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_harry.png"
     },
     {
       "aspects": [
         "cosmetic_item-cocoa_beans"
       ],
-      "model": "cobblemon:pikachu_detective_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_harry.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_detective_male.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass"
+      ],
+      "layers": [
+        {
+          "name": "captain",
+          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
+        }
+      ],
+      "model": "cobblemon:pikachu_captain_male.geo",
+      "poser": "cobblemon:pikachu_captain",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap.png"
     },
     {
       "aspects": [
         "cosmetic_item-paper"
       ],
-      "model": "cobblemon:pikachu_male_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_paper.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_taped.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_male_female.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_paper.png"
     },
     {
       "aspects": [
         "cosmetic_item-rage_candy_bar",
         "female"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_original.png",
       "layers": [
         {
           "name": "original",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_original.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_original.png"
     },
     {
       "aspects": [
         "cosmetic_item-pewter_crunchies",
         "female"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_partner.png",
       "layers": [
         {
           "name": "partner",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_partner.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_partner.png"
     },
     {
       "aspects": [
         "cosmetic_item-lava_cookie",
         "female"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_hoenn.png",
       "layers": [
         {
           "name": "hoenn",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_hoenn.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_hoenn.png"
     },
     {
       "aspects": [
         "cosmetic_item-old_gateau",
         "female"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_sinnoh.png",
       "layers": [
         {
           "name": "sinnoh",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_sinnoh.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_sinnoh.png"
     },
     {
       "aspects": [
         "cosmetic_item-casteliacone",
         "female"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_unova.png",
       "layers": [
         {
           "name": "unova",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_unova.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_unova.png"
     },
     {
       "aspects": [
         "cosmetic_item-lumiose_galette",
         "female"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_kalos.png",
       "layers": [
         {
           "name": "kalos",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_kalos.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_kalos.png"
     },
     {
       "aspects": [
         "cosmetic_item-big_malasada",
         "female"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_alola.png",
       "layers": [
         {
           "name": "alola",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_alola.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_alola.png"
     },
     {
       "aspects": [
         "cosmetic_item-smoked_tail_curry",
         "female"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_world.png",
       "layers": [
         {
           "name": "world",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_world.png"
         }
-      ]
-    },
-    {
-      "aspects": [
-        "cosmetic_item-compass",
-        "female"
       ],
-      "model": "cobblemon:pikachu_captain_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_cap.png",
-      "layers": [
-        {
-          "name": "captain",
-          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
-        }
-      ]
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_world.png"
     },
     {
       "aspects": [
@@ -376,182 +379,191 @@
         "cosmetic_item-leather_helmet",
         "female"
       ],
-      "model": "cobblemon:pikachu_detective_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_harry.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_detective_female.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_harry.png"
     },
     {
       "aspects": [
         "cosmetic_item-sinister_tea",
         "female"
       ],
-      "model": "cobblemon:pikachu_detective_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_harry.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_detective_female.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_harry.png"
     },
     {
       "aspects": [
         "cosmetic_item-cocoa_beans",
         "female"
       ],
-      "model": "cobblemon:pikachu_detective_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_harry.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_detective_female.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_harry.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "female"
+      ],
+      "layers": [
+        {
+          "name": "captain",
+          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
+        }
+      ],
+      "model": "cobblemon:pikachu_captain_female.geo",
+      "poser": "cobblemon:pikachu_captain",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_cap.png"
     },
     {
       "aspects": [
         "cosmetic_item-paper",
         "female"
       ],
-      "model": "cobblemon:pikachu_female_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_paper.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_taped.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_female_male.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_paper.png"
     },
     {
       "aspects": [
         "cosmetic_item-rage_candy_bar",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_original_shiny.png",
       "layers": [
         {
           "name": "original",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_original.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_original_shiny.png"
     },
     {
       "aspects": [
         "cosmetic_item-pewter_crunchies",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_partner_shiny.png",
       "layers": [
         {
           "name": "partner",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_partner.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_partner_shiny.png"
     },
     {
       "aspects": [
         "cosmetic_item-lava_cookie",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_hoenn_shiny.png",
       "layers": [
         {
           "name": "hoenn",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_hoenn.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_hoenn_shiny.png"
     },
     {
       "aspects": [
         "cosmetic_item-old_gateau",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_sinnoh_shiny.png",
       "layers": [
         {
           "name": "sinnoh",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_sinnoh.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_sinnoh_shiny.png"
     },
     {
       "aspects": [
         "cosmetic_item-casteliacone",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_unova_shiny.png",
       "layers": [
         {
           "name": "unova",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_unova.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_unova_shiny.png"
     },
     {
       "aspects": [
         "cosmetic_item-lumiose_galette",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_kalos_shiny.png",
       "layers": [
         {
           "name": "kalos",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_kalos.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_kalos_shiny.png"
     },
     {
       "aspects": [
         "cosmetic_item-big_malasada",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_shiny.png",
       "layers": [
         {
           "name": "alola",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_alola.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_shiny.png"
     },
     {
       "aspects": [
         "cosmetic_item-smoked_tail_curry",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_world_shiny.png",
       "layers": [
         {
           "name": "world",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_world.png"
         }
-      ]
-    },
-    {
-      "aspects": [
-        "cosmetic_item-compass",
-        "shiny"
       ],
-      "model": "cobblemon:pikachu_captain_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_shiny.png",
-      "layers": [
-        {
-          "name": "captain",
-          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
-        }
-      ]
+      "model": "cobblemon:pikachu_cap_male.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_world_shiny.png"
     },
     {
       "aspects": [
@@ -566,56 +578,71 @@
         "cosmetic_item-leather_helmet",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_detective_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_harry_shiny.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_detective_male.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_harry_shiny.png"
     },
     {
       "aspects": [
         "cosmetic_item-sinister_tea",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_detective_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_harry_shiny.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_detective_male.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_harry_shiny.png"
     },
     {
       "aspects": [
         "cosmetic_item-cocoa_beans",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_detective_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_harry_shiny.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_detective_male.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "shiny"
+      ],
+      "layers": [
+        {
+          "name": "captain",
+          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
+        }
+      ],
+      "model": "cobblemon:pikachu_captain_male.geo",
+      "poser": "cobblemon:pikachu_captain",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_shiny.png"
     },
     {
       "aspects": [
         "cosmetic_item-paper",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_male_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_paper_shiny.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_taped_shiny.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_male_female.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_paper_shiny.png"
     },
     {
       "aspects": [
@@ -623,14 +650,15 @@
         "female",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_original_shiny.png",
       "layers": [
         {
           "name": "original",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_original.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_original_shiny.png"
     },
     {
       "aspects": [
@@ -638,14 +666,15 @@
         "female",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_partner_shiny.png",
       "layers": [
         {
           "name": "partner",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_partner.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_partner_shiny.png"
     },
     {
       "aspects": [
@@ -653,14 +682,15 @@
         "female",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_hoenn_shiny.png",
       "layers": [
         {
           "name": "hoenn",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_hoenn.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_hoenn_shiny.png"
     },
     {
       "aspects": [
@@ -668,14 +698,15 @@
         "female",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_sinnoh_shiny.png",
       "layers": [
         {
           "name": "sinnoh",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_sinnoh.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_sinnoh_shiny.png"
     },
     {
       "aspects": [
@@ -683,14 +714,15 @@
         "female",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_unova_shiny.png",
       "layers": [
         {
           "name": "unova",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_unova.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_unova_shiny.png"
     },
     {
       "aspects": [
@@ -698,14 +730,15 @@
         "female",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_kalos_shiny.png",
       "layers": [
         {
           "name": "kalos",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_kalos.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_kalos_shiny.png"
     },
     {
       "aspects": [
@@ -713,14 +746,15 @@
         "female",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_alola_shiny.png",
       "layers": [
         {
           "name": "alola",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_alola.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_alola_shiny.png"
     },
     {
       "aspects": [
@@ -728,29 +762,15 @@
         "female",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_cap_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_world_shiny.png",
       "layers": [
         {
           "name": "world",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_world.png"
         }
-      ]
-    },
-    {
-      "aspects": [
-        "cosmetic_item-compass",
-        "female",
-        "shiny"
       ],
-      "model": "cobblemon:pikachu_captain_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_cap_shiny.png",
-      "layers": [
-        {
-          "name": "captain",
-          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
-        }
-      ]
+      "model": "cobblemon:pikachu_cap_female.geo",
+      "poser": "cobblemon:pikachu_cap",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_world_shiny.png"
     },
     {
       "aspects": [
@@ -767,14 +787,14 @@
         "female",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_detective_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_harry_shiny.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_detective_female.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_harry_shiny.png"
     },
     {
       "aspects": [
@@ -782,14 +802,14 @@
         "female",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_detective_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_harry_shiny.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_detective_female.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_harry_shiny.png"
     },
     {
       "aspects": [
@@ -797,14 +817,30 @@
         "female",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_detective_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_harry_shiny.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_detective_female.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-compass",
+        "female",
+        "shiny"
+      ],
+      "layers": [
+        {
+          "name": "captain",
+          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
+        }
+      ],
+      "model": "cobblemon:pikachu_captain_female.geo",
+      "poser": "cobblemon:pikachu_captain",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_cap_shiny.png"
     },
     {
       "aspects": [
@@ -812,14 +848,14 @@
         "female",
         "shiny"
       ],
-      "model": "cobblemon:pikachu_female_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_paper_shiny.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_taped_shiny.png"
         }
-      ]
+      ],
+      "model": "cobblemon:pikachu_female_male.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_paper_shiny.png"
     },
     {
       "aspects": [

@@ -38,6 +38,7 @@
         "region-bias-alola",
         "cosmetic_item-rage_candy_bar"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_original.png",
       "layers": [
@@ -52,6 +53,7 @@
         "region-bias-alola",
         "cosmetic_item-pewter_crunchies"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_partner.png",
       "layers": [
@@ -66,6 +68,7 @@
         "region-bias-alola",
         "cosmetic_item-lava_cookie"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_hoenn.png",
       "layers": [
@@ -80,6 +83,7 @@
         "region-bias-alola",
         "cosmetic_item-old_gateau"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_sinnoh.png",
       "layers": [
@@ -94,6 +98,7 @@
         "region-bias-alola",
         "cosmetic_item-casteliacone"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_unova.png",
       "layers": [
@@ -108,6 +113,7 @@
         "region-bias-alola",
         "cosmetic_item-lumiose_galette"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_kalos.png",
       "layers": [
@@ -122,6 +128,7 @@
         "region-bias-alola",
         "cosmetic_item-big_malasada"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_alola.png",
       "layers": [
@@ -136,6 +143,7 @@
         "region-bias-alola",
         "cosmetic_item-smoked_tail_curry"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_world.png",
       "layers": [
@@ -214,6 +222,7 @@
         "region-bias-alola",
         "cosmetic_item-music"
       ],
+      "poser": "cobblemon:pichu_alolan_ukulele",
       "model": "cobblemon:pichu_alola_bias_ukulele.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_music.png",
       "layers": [
@@ -229,6 +238,7 @@
         "cosmetic_item-rage_candy_bar",
         "shiny"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_original_shiny.png",
       "layers": [
@@ -244,6 +254,7 @@
         "cosmetic_item-pewter_crunchies",
         "shiny"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_partner_shiny.png",
       "layers": [
@@ -259,6 +270,7 @@
         "cosmetic_item-lava_cookie",
         "shiny"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_hoenn_shiny.png",
       "layers": [
@@ -274,6 +286,7 @@
         "cosmetic_item-old_gateau",
         "shiny"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_sinnoh_shiny.png",
       "layers": [
@@ -289,6 +302,7 @@
         "cosmetic_item-casteliacone",
         "shiny"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_unova_shiny.png",
       "layers": [
@@ -304,6 +318,7 @@
         "cosmetic_item-lumiose_galette",
         "shiny"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_kalos_shiny.png",
       "layers": [
@@ -319,6 +334,7 @@
         "cosmetic_item-big_malasada",
         "shiny"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_alola_shiny.png",
       "layers": [
@@ -334,6 +350,7 @@
         "cosmetic_item-smoked_tail_curry",
         "shiny"
       ],
+      "poser": "cobblemon:pichu_alolan_cap",
       "model": "cobblemon:pichu_alola_bias_cap.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_world_shiny.png",
       "layers": [
@@ -418,12 +435,25 @@
         "cosmetic_item-music",
         "shiny"
       ],
+      "poser": "cobblemon:pichu_alolan_ukulele",
       "model": "cobblemon:pichu_alola_bias_ukulele.geo",
       "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alola_bias_music_shiny.png",
       "layers": [
         {
           "name": "ukulele",
           "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_ukulele.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0172_pichu/pichu_alpha.png",
+          "emissive": true
         }
       ]
     }

@@ -71,6 +71,7 @@
         "region-bias-alola",
         "cosmetic_item-rage_candy_bar"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_original.png",
       "layers": [
@@ -85,6 +86,7 @@
         "region-bias-alola",
         "cosmetic_item-pewter_crunchies"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_partner.png",
       "layers": [
@@ -99,6 +101,7 @@
         "region-bias-alola",
         "cosmetic_item-lava_cookie"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_hoenn.png",
       "layers": [
@@ -113,6 +116,7 @@
         "region-bias-alola",
         "cosmetic_item-old_gateau"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_sinnoh.png",
       "layers": [
@@ -127,6 +131,7 @@
         "region-bias-alola",
         "cosmetic_item-casteliacone"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_unova.png",
       "layers": [
@@ -141,6 +146,7 @@
         "region-bias-alola",
         "cosmetic_item-lumiose_galette"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_kalos.png",
       "layers": [
@@ -155,6 +161,7 @@
         "region-bias-alola",
         "cosmetic_item-big_malasada"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_alola.png",
       "layers": [
@@ -169,26 +176,13 @@
         "region-bias-alola",
         "cosmetic_item-smoked_tail_curry"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_world.png",
       "layers": [
         {
           "name": "world",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_world.png"
-        }
-      ]
-    },
-    {
-      "aspects": [
-        "region-bias-alola",
-        "cosmetic_item-compass"
-      ],
-      "model": "cobblemon:pikachu_alola_bias_captain_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_cap.png",
-      "layers": [
-        {
-          "name": "captain",
-          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
         }
       ]
     },
@@ -245,6 +239,21 @@
     {
       "aspects": [
         "region-bias-alola",
+        "cosmetic_item-compass"
+      ],
+      "model": "cobblemon:pikachu_alola_bias_captain_male.geo",
+      "poser": "cobblemon:pikachu_alolan_captain",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_cap.png",
+      "layers": [
+        {
+          "name": "captain",
+          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
         "cosmetic_item-paper"
       ],
       "model": "cobblemon:pikachu_male_female.geo",
@@ -262,6 +271,7 @@
         "cosmetic_item-rage_candy_bar",
         "female"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_original.png",
       "layers": [
@@ -277,6 +287,7 @@
         "cosmetic_item-pewter_crunchies",
         "female"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_partner.png",
       "layers": [
@@ -292,6 +303,7 @@
         "cosmetic_item-lava_cookie",
         "female"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_hoenn.png",
       "layers": [
@@ -307,6 +319,7 @@
         "cosmetic_item-old_gateau",
         "female"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_sinnoh.png",
       "layers": [
@@ -322,6 +335,7 @@
         "cosmetic_item-casteliacone",
         "female"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_unova.png",
       "layers": [
@@ -337,6 +351,7 @@
         "cosmetic_item-lumiose_galette",
         "female"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_kalos.png",
       "layers": [
@@ -352,6 +367,7 @@
         "cosmetic_item-big_malasada",
         "female"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_alola.png",
       "layers": [
@@ -367,27 +383,13 @@
         "cosmetic_item-smoked_tail_curry",
         "female"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_world.png",
       "layers": [
         {
           "name": "world",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_world.png"
-        }
-      ]
-    },
-    {
-      "aspects": [
-        "region-bias-alola",
-        "cosmetic_item-compass",
-        "female"
-      ],
-      "model": "cobblemon:pikachu_alola_bias_captain_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_cap.png",
-      "layers": [
-        {
-          "name": "captain",
-          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
         }
       ]
     },
@@ -448,6 +450,22 @@
     {
       "aspects": [
         "region-bias-alola",
+        "cosmetic_item-compass",
+        "female"
+      ],
+      "model": "cobblemon:pikachu_alola_bias_captain_female.geo",
+      "poser": "cobblemon:pikachu_alolan_captain",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_cap.png",
+      "layers": [
+        {
+          "name": "captain",
+          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
         "cosmetic_item-paper",
         "female"
       ],
@@ -466,6 +484,7 @@
         "cosmetic_item-rage_candy_bar",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_original_shiny.png",
       "layers": [
@@ -481,6 +500,7 @@
         "cosmetic_item-pewter_crunchies",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_partner_shiny.png",
       "layers": [
@@ -496,6 +516,7 @@
         "cosmetic_item-lava_cookie",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_hoenn_shiny.png",
       "layers": [
@@ -511,6 +532,7 @@
         "cosmetic_item-old_gateau",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_sinnoh_shiny.png",
       "layers": [
@@ -526,6 +548,7 @@
         "cosmetic_item-casteliacone",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_unova_shiny.png",
       "layers": [
@@ -541,6 +564,7 @@
         "cosmetic_item-lumiose_galette",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_kalos_shiny.png",
       "layers": [
@@ -556,6 +580,7 @@
         "cosmetic_item-big_malasada",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_alola_shiny.png",
       "layers": [
@@ -571,27 +596,13 @@
         "cosmetic_item-smoked_tail_curry",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_male.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_world_shiny.png",
       "layers": [
         {
           "name": "world",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_world.png"
-        }
-      ]
-    },
-    {
-      "aspects": [
-        "region-bias-alola",
-        "cosmetic_item-compass",
-        "shiny"
-      ],
-      "model": "cobblemon:pikachu_alola_bias_captain_male.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_cap_shiny.png",
-      "layers": [
-        {
-          "name": "captain",
-          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
         }
       ]
     },
@@ -652,6 +663,22 @@
     {
       "aspects": [
         "region-bias-alola",
+        "cosmetic_item-compass",
+        "shiny"
+      ],
+      "model": "cobblemon:pikachu_alola_bias_captain_male.geo",
+      "poser": "cobblemon:pikachu_alolan_captain",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_cap_shiny.png",
+      "layers": [
+        {
+          "name": "captain",
+          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
         "cosmetic_item-paper",
         "shiny"
       ],
@@ -671,6 +698,7 @@
         "female",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_original_shiny.png",
       "layers": [
@@ -687,6 +715,7 @@
         "female",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_partner_shiny.png",
       "layers": [
@@ -703,6 +732,7 @@
         "female",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_hoenn_shiny.png",
       "layers": [
@@ -719,6 +749,7 @@
         "female",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_sinnoh_shiny.png",
       "layers": [
@@ -735,6 +766,7 @@
         "female",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_unova_shiny.png",
       "layers": [
@@ -751,6 +783,7 @@
         "female",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_kalos_shiny.png",
       "layers": [
@@ -767,6 +800,7 @@
         "female",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_alola_shiny.png",
       "layers": [
@@ -783,28 +817,13 @@
         "female",
         "shiny"
       ],
+      "poser": "cobblemon:pikachu_alolan_cap",
       "model": "cobblemon:pikachu_alola_bias_cap_female.geo",
       "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_world_shiny.png",
       "layers": [
         {
           "name": "world",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_cap_world.png"
-        }
-      ]
-    },
-    {
-      "aspects": [
-        "region-bias-alola",
-        "cosmetic_item-compass",
-        "female",
-        "shiny"
-      ],
-      "model": "cobblemon:pikachu_alola_bias_captain_female.geo",
-      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_cap_shiny.png",
-      "layers": [
-        {
-          "name": "captain",
-          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
         }
       ]
     },
@@ -863,6 +882,23 @@
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_detective.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "cosmetic_item-compass",
+        "female",
+        "shiny"
+      ],
+      "model": "cobblemon:pikachu_alola_bias_captain_female.geo",
+      "poser": "cobblemon:pikachu_alolan_captain",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_alola_bias_female_cap_shiny.png",
+      "layers": [
+        {
+          "name": "captain",
+          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_captain.png"
         }
       ]
     },

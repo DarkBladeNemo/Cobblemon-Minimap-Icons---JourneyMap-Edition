@@ -1,163 +1,171 @@
 {
-  "species": "cobblemon:raichu",
   "order": 1,
+  "species": "cobblemon:raichu",
   "variations": [
     {
       "aspects": [
         "alolan"
       ],
-      "poser": "cobblemon:raichu_alolan",
-      "model": "cobblemon:raichu_alolan.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan.png",
       "layers": [
         {
+          "emissive": true,
           "name": "emissive",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_emissive.png",
-          "emissive": true,
           "translucent": false
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan.geo",
+      "poser": "cobblemon:raichu_alolan",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan.png"
     },
     {
       "aspects": [
         "shiny",
         "alolan"
       ],
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_shiny.png",
       "layers": [
         {
+          "emissive": true,
           "name": "emissive",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_emissive_shiny.png",
-          "emissive": true,
           "translucent": false
         }
-      ]
+      ],
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_shiny.png"
     },
     {
       "aspects": [
         "cosmetic_item-rage_candy_bar",
         "alolan"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_original.png",
       "layers": [
         {
           "name": "original",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_original.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_original.png"
     },
     {
       "aspects": [
         "cosmetic_item-pewter_crunchies",
         "alolan"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_partner.png",
       "layers": [
         {
           "name": "partner",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_partner.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_partner.png"
     },
     {
       "aspects": [
         "cosmetic_item-lava_cookie",
         "alolan"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_hoenn.png",
       "layers": [
         {
           "name": "hoenn",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_hoenn.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_hoenn.png"
     },
     {
       "aspects": [
         "cosmetic_item-old_gateau",
         "alolan"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_sinnoh.png",
       "layers": [
         {
           "name": "sinnoh",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_sinnoh.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_sinnoh.png"
     },
     {
       "aspects": [
         "cosmetic_item-casteliacone",
         "alolan"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_unova.png",
       "layers": [
         {
           "name": "unova",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_unova.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_unova.png"
     },
     {
       "aspects": [
         "cosmetic_item-lumiose_galette",
         "alolan"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_kalos.png",
       "layers": [
         {
           "name": "kalos",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_kalos.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_kalos.png"
     },
     {
       "aspects": [
         "cosmetic_item-big_malasada",
         "alolan"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_alola.png",
       "layers": [
         {
           "name": "alola",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_alola.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_alola.png"
     },
     {
       "aspects": [
         "cosmetic_item-smoked_tail_curry",
         "alolan"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_world.png",
       "layers": [
         {
           "name": "world",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_world.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_world.png"
     },
     {
       "aspects": [
         "cosmetic_item-compass",
         "alolan"
       ],
-      "model": "cobblemon:raichu_alolan_captain.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_cap.png",
       "layers": [
         {
           "name": "captain",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_captain.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_captain.geo",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_cap.png"
     },
     {
       "aspects": [
@@ -172,42 +180,42 @@
         "cosmetic_item-leather_helmet",
         "alolan"
       ],
-      "model": "cobblemon:raichu_alolan_detective.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_detective.geo",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry.png"
     },
     {
       "aspects": [
         "cosmetic_item-sinister_tea",
         "alolan"
       ],
-      "model": "cobblemon:raichu_alolan_detective.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_detective.geo",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry.png"
     },
     {
       "aspects": [
         "cosmetic_item-cocoa_beans",
         "alolan"
       ],
-      "model": "cobblemon:raichu_alolan_detective.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_detective.geo",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry.png"
     },
     {
       "aspects": [
@@ -215,14 +223,15 @@
         "alolan",
         "shiny"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_original_shiny.png",
       "layers": [
         {
           "name": "original",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_original.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_original_shiny.png"
     },
     {
       "aspects": [
@@ -230,14 +239,15 @@
         "alolan",
         "shiny"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_partner_shiny.png",
       "layers": [
         {
           "name": "partner",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_partner.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_partner_shiny.png"
     },
     {
       "aspects": [
@@ -245,14 +255,15 @@
         "alolan",
         "shiny"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_hoenn_shiny.png",
       "layers": [
         {
           "name": "hoenn",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_hoenn.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_hoenn_shiny.png"
     },
     {
       "aspects": [
@@ -260,14 +271,15 @@
         "alolan",
         "shiny"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_sinnoh_shiny.png",
       "layers": [
         {
           "name": "sinnoh",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_sinnoh.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_sinnoh_shiny.png"
     },
     {
       "aspects": [
@@ -275,14 +287,15 @@
         "alolan",
         "shiny"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_unova_shiny.png",
       "layers": [
         {
           "name": "unova",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_unova.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_unova_shiny.png"
     },
     {
       "aspects": [
@@ -290,14 +303,15 @@
         "alolan",
         "shiny"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_kalos_shiny.png",
       "layers": [
         {
           "name": "kalos",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_kalos.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_kalos_shiny.png"
     },
     {
       "aspects": [
@@ -305,14 +319,15 @@
         "alolan",
         "shiny"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_alola_shiny.png",
       "layers": [
         {
           "name": "alola",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_alola.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_alola_shiny.png"
     },
     {
       "aspects": [
@@ -320,14 +335,15 @@
         "alolan",
         "shiny"
       ],
-      "model": "cobblemon:raichu_alolan_cap.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_world_shiny.png",
       "layers": [
         {
           "name": "world",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_cap_world.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_cap.geo",
+      "poser": "cobblemon:raichu_alolan_cap",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_world_shiny.png"
     },
     {
       "aspects": [
@@ -335,14 +351,14 @@
         "alolan",
         "shiny"
       ],
-      "model": "cobblemon:raichu_alolan_captain.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_cap_shiny.png",
       "layers": [
         {
           "name": "captain",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_captain.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_captain.geo",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_cap_shiny.png"
     },
     {
       "aspects": [
@@ -359,14 +375,14 @@
         "alolan",
         "shiny"
       ],
-      "model": "cobblemon:raichu_alolan_detective.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry_shiny.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_detective.geo",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry_shiny.png"
     },
     {
       "aspects": [
@@ -374,14 +390,14 @@
         "alolan",
         "shiny"
       ],
-      "model": "cobblemon:raichu_alolan_detective.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry_shiny.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_detective.png"
         }
-      ]
+      ],
+      "model": "cobblemon:raichu_alolan_detective.geo",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry_shiny.png"
     },
     {
       "aspects": [
@@ -389,12 +405,24 @@
         "alolan",
         "shiny"
       ],
-      "model": "cobblemon:raichu_alolan_detective.geo",
-      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry_shiny.png",
       "layers": [
         {
           "name": "detective",
           "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_detective.png"
+        }
+      ],
+      "model": "cobblemon:raichu_alolan_detective.geo",
+      "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_harry_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "emissive": true,
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_alpha.png"
         }
       ]
     }

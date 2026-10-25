@@ -7,6 +7,7 @@
         "female"
       ],
       "model": "cobblemon:snover_female.geo",
+      "poser": "cobblemon:snover",
       "texture": "cobblemon:textures/pokemon/0459_snover/snover_female.png"
     },
     {
