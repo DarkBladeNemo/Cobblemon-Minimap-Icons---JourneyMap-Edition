@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:salandit",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0757_salandit/salandit_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0757_salandit/salandit_female_shiny.png"
+    }
+  ]
+}

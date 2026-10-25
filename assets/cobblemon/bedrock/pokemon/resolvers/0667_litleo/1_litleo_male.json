@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:litleo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "male"
+      ],
+      "texture": "cobblemon:textures/pokemon/0667_litleo/litleo_male.png"
+    },
+    {
+      "aspects": [
+        "male",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0667_litleo/litleomale_shiny.png"
+    }
+  ]
+}
