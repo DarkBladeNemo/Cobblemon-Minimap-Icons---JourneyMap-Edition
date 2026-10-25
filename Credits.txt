@@ -1,0 +1,13 @@
+## Credits & Attributions
+
+This JourneyMap integration pack is based on the assets from **E19 - Cobblemon Minimap Icons** by **Emery319**, adapted with permission to support JourneyMap's folder structures and custom additions.
+
+### Original Artwork Credits:
+The vast majority of the custom Pokémon pixel art sprites utilized in this pack were created by **MBCMechachu** and their incredible team of pixel artists. Per their free-to-use attribution policy, please find their official directories below:
+* **Lead Artist:** MBCMechachu
+* **Artist Gallery:** https://www.deviantart.com/mbcmechachu/gallery
+* **Official Sprite Credit Sheet:** https://docs.google.com/spreadsheets/d/1kI_PDXnbghxjN2LBvxA6Pz-QqMYlVGN3Z1EivXOYwNY/edit?gid=0#gid=0
+
+### Unique Forms & Resource Pack Base:
+* **E19 Pack Creator:** Emery319 (Created custom Unique Forms added specifically for Cobblemon).
+* **Original Xaero's Minimap Pack:** [https://www.curseforge.com/minecraft/texture-packs/e19-cobblemon-minimap-icons]
