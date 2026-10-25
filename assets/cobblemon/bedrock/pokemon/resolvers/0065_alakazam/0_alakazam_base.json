@@ -1,0 +1,80 @@
+{
+  "species": "cobblemon:alakazam",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:alakazam_male",
+      "model": "cobblemon:alakazam_male.geo",
+      "texture": "cobblemon:textures/pokemon/0065_alakazam/alakazam.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0065_alakazam/alakazam_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "poser": "cobblemon:alakazam_female",
+      "model": "cobblemon:alakazam_female.geo",
+      "texture": "cobblemon:textures/pokemon/0065_alakazam/alakazam_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0065_alakazam/alakazam_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "color-black"
+      ],
+      "texture": "cobblemon:textures/pokemon/0065_alakazam/alakazam_black.png",
+      "layers": [
+        {
+          "name": "pokemopolis",
+          "texture": "cobblemon:textures/pokemon/0065_alakazam/alakazam_pokemopolis.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-black",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0065_alakazam/alakazam_black_shiny.png"
+    },
+    {
+      "aspects": [
+        "color-black",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0065_alakazam/alakazam_female_black.png"
+    },
+    {
+      "aspects": [
+        "color-black",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0065_alakazam/alakazam_female_black_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "emissive": true,
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0065_alakazam/alakazam_alpha.png"
+        }
+      ]
+    }
+  ]
+}

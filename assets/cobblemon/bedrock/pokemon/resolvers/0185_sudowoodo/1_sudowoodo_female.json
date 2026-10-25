@@ -1,0 +1,47 @@
+{
+  "species": "cobblemon:sudowoodo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:sudowoodo_female.geo",
+      "texture": "cobblemon:textures/pokemon/0185_sudowoodo/sudowoodo_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0185_sudowoodo/sudowoodo_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "cosmetic_item-gold_armor"
+      ],
+      "texture": "cobblemon:textures/pokemon/0185_sudowoodo/sudowoodo_gold_female.png",
+      "layers": [
+        {
+          "name": "golden",
+          "texture": "cobblemon:textures/pokemon/0185_sudowoodo/sudowoodo_golden.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "female",
+        "cosmetic_item-gold_armor",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0185_sudowoodo/sudowoodo_gold_female_shiny.png",
+      "layers": [
+        {
+          "name": "golden",
+          "texture": "cobblemon:textures/pokemon/0185_sudowoodo/sudowoodo_golden.png"
+        }
+      ]
+    }
+  ]
+}

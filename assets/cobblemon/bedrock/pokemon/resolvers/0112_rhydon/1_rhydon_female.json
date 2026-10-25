@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:rhydon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:rhydon_female.geo",
+      "texture": "cobblemon:textures/pokemon/0112_rhydon/rhydon_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0112_rhydon/rhydon_female_shiny.png"
+    }
+  ]
+}

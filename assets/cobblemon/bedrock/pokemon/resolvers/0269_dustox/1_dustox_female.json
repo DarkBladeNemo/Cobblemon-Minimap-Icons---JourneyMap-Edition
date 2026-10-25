@@ -1,0 +1,20 @@
+{
+  "order": 1,
+  "species": "cobblemon:dustox",
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:dustox_female.geo",
+      "texture": "cobblemon:textures/pokemon/0269_dustox/dustox_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0269_dustox/dustox_female_shiny.png"
+    }
+  ]
+}

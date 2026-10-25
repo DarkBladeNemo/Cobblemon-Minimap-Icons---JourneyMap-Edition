@@ -1,0 +1,56 @@
+{
+  "species": "cobblemon:sudowoodo",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:sudowoodo",
+      "model": "cobblemon:sudowoodo_male.geo",
+      "texture": "cobblemon:textures/pokemon/0185_sudowoodo/sudowoodo.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0185_sudowoodo/sudowoodo_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-gold_armor"
+      ],
+      "texture": "cobblemon:textures/pokemon/0185_sudowoodo/sudowoodo_gold.png",
+      "layers": [
+        {
+          "name": "golden",
+          "texture": "cobblemon:textures/pokemon/0185_sudowoodo/sudowoodo_golden.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cosmetic_item-gold_armor",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0185_sudowoodo/sudowoodo_gold_shiny.png",
+      "layers": [
+        {
+          "name": "golden",
+          "texture": "cobblemon:textures/pokemon/0185_sudowoodo/sudowoodo_golden.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "emissive": true,
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0185_sudowoodo/sudowoodo_alpha.png"
+        }
+      ]
+    }
+  ]
+}

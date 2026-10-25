@@ -1,0 +1,45 @@
+{
+  "species": "cobblemon:murkrow",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:murkrow",
+      "model": "cobblemon:murkrow_male.geo",
+      "texture": "cobblemon:textures/pokemon/0198_murkrow/murkrow.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:murkrow_female.geo",
+      "texture": "cobblemon:textures/pokemon/0198_murkrow/murkrow_female.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0198_murkrow/murkrow_shiny.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0198_murkrow/murkrow_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "emissive": true,
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0198_murkrow/murkrow_alpha.png"
+        }
+      ]
+    }
+  ]
+}

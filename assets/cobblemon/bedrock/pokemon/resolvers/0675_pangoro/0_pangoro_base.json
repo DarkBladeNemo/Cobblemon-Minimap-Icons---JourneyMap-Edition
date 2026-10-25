@@ -1,0 +1,54 @@
+{
+  "order": 0,
+  "species": "cobblemon:pangoro",
+  "variations": [
+    {
+      "aspects": [],
+      "layers": [],
+      "model": "cobblemon:pangoro.geo",
+      "poser": "cobblemon:pangoro",
+      "texture": "cobblemon:textures/pokemon/0675_pangoro/pangoro.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0675_pangoro/pangoro_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-black_glasses"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0675_pangoro/pangoro_serenaglasses.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0675_pangoro/pangoro_black_glasses.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-black_glasses",
+        "shiny"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0675_pangoro/pangoro_serenaglasses.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0675_pangoro/pangoro_black_glasses_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "emissive": true,
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0674_pancham/pancham_alpha.png"
+        }
+      ]
+    }
+  ]
+}

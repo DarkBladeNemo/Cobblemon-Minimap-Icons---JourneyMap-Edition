@@ -1,0 +1,406 @@
+{
+  "species": "cobblemon:vivillon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "vivillon-wings-prismatic"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_prismatic.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_prismatic.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-minty"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_minty.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_minty.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-tangy"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_tangy.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_tangy.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-ultraviolet"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_ultraviolet.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_ultraviolet.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-toned"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_toned.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_toned.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-twilight"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_twilight.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_twilight.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-pelopon"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_pelopon.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_pelopon.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-embroidered"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_embroidered.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_embroidered.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-monarch"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_monarch.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_monarch.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-whorl"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_whorl.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_whorl.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-null"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_null.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_null.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-ringed"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_ringed.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_ringed.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-motley1"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_motley.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_motley1.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-motley2"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_motley_flip.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_motley2.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-duet1"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_duet.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_duet1.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-duet2"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_duet_flip.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_duet2.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-prismatic",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_prismatic_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_prismatic.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-minty",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_minty_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_minty.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-tangy",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_tangy_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_tangy.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-ultraviolet",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_ultraviolet_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_ultraviolet.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-toned",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_toned_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_toned.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-twilight",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_twilight_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_twilight.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-pelopon",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_pelopon_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_pelopon.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-embroidered",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_embroidered_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_embroidered.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-monarch",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_monarch_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_monarch.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-whorl",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_whorl_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_whorl.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-null",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_null_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_null.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-ringed",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_ringed_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_ringed.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-motley1",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_motley_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_motley1.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-motley2",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_motley_flip_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_motley2.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-duet1",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_duet_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_duet1.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "vivillon-wings-duet2",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_duet_flip_shiny.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": "cobblemon:textures/pokemon/0666_vivillon/vivillon_wings_duet2.png"
+        }
+      ]
+    }
+  ]
+}

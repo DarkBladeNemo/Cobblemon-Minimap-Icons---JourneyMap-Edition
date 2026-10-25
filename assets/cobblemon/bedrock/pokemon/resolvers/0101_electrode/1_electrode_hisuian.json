@@ -1,0 +1,76 @@
+{
+  "species": "cobblemon:electrode",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "hisuian"
+      ],
+      "poser": "cobblemon:electrode_hisuian",
+      "model": "cobblemon:electrode_hisuian.geo",
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny",
+        "hisuian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_shiny.png"
+    },
+    {
+      "aspects": [
+        "color-lime",
+        "hisuian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_lime.png",
+      "layers": [
+        {
+          "name": "lime",
+          "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_watermelon_lime.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-green",
+        "hisuian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_green.png",
+      "layers": [
+        {
+          "name": "green",
+          "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_watermelon_green.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-lime",
+        "shiny",
+        "hisuian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_lime_shiny.png",
+      "layers": [
+        {
+          "name": "lime",
+          "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_watermelon_lime.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-green",
+        "shiny",
+        "hisuian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_hisuian_green_shiny.png",
+      "layers": [
+        {
+          "name": "green",
+          "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_watermelon_green.png"
+        }
+      ]
+    }
+  ]
+}

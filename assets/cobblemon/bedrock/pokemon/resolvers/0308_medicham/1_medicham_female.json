@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:medicham",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:medicham_female.geo",
+      "texture": "cobblemon:textures/pokemon/0308_medicham/medicham_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0308_medicham/medicham_female_shiny.png"
+    }
+  ]
+}

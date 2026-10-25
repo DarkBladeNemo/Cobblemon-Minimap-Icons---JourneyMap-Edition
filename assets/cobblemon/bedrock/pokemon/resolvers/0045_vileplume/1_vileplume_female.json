@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:vileplume",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:vileplume_female.geo",
+      "texture": "cobblemon:textures/pokemon/0045_vileplume/vileplume_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0045_vileplume/vileplume_female_shiny.png"
+    }
+  ]
+}

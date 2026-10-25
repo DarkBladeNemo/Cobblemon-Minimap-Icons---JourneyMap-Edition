@@ -1,0 +1,44 @@
+{
+  "species": "cobblemon:metapod",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:metapod",
+      "model": "cobblemon:metapod.geo",
+      "texture": "cobblemon:textures/pokemon/0011_metapod/metapod.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0011_metapod/metapod_shiny.png"
+    },
+    {
+      "aspects": [
+        "valencian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0011_metapod/metapod_valencian.png"
+    },
+    {
+      "aspects": [
+        "valencian",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0011_metapod/metapod_valencian_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "emissive": true,
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0011_metapod/metapod_alpha.png"
+        }
+      ]
+    }
+  ]
+}

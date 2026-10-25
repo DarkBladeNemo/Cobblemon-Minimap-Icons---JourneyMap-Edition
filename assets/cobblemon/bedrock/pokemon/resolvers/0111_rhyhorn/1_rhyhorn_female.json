@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:rhyhorn",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:rhyhorn_female.geo",
+      "texture": "cobblemon:textures/pokemon/0111_rhyhorn/rhyhorn_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0111_rhyhorn/rhyhorn_female_shiny.png"
+    }
+  ]
+}

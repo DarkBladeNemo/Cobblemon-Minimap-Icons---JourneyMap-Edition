@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:sinistcha",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "masterpiece"
+      ],
+      "poser": "cobblemon:sinistcha",
+      "model": "cobblemon:sinistcha_masterpiece.geo",
+      "texture": "cobblemon:textures/pokemon/1013_sinistcha/sinistcha_masterpiece.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "masterpiece",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1013_sinistcha/sinistcha_masterpiece_shiny.png"
+    }
+  ]
+}

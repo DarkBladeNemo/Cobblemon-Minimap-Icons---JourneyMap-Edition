@@ -1,0 +1,35 @@
+{
+  "species": "cobblemon:minior",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "meteor-form"
+      ],
+      "poser": "cobblemon:minior_meteor",
+      "model": "cobblemon:minior.geo",
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_meteor.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0774_minior/minior_emissive_red.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "meteor-form",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0774_minior/minior_meteor_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0774_minior/minior_emissive_shiny.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

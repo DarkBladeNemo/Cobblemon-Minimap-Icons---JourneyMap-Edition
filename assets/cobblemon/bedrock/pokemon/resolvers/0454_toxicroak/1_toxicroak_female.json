@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:toxicroak",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:toxicroak_female.geo",
+      "texture": "cobblemon:textures/pokemon/0454_toxicroak/toxicroak_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0454_toxicroak/toxicroak_female_shiny.png"
+    }
+  ]
+}

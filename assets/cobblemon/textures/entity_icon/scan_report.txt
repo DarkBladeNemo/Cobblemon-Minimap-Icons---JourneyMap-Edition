@@ -1,0 +1,11 @@
+MISSING ICON SCAN REPORT
+
+Regular source icons: 2570
+Shiny source icons: 2456
+Already present: 3297
+Copied: 1729
+
+UNRECOGNIZED FILENAMES:
+
+
+OUTPUT COLLISIONS:

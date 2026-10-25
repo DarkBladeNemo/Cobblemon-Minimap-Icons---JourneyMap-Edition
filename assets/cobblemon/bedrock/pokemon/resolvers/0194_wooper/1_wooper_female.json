@@ -1,0 +1,38 @@
+{
+  "species": "cobblemon:wooper",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:wooper_female.geo",
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_female.png"
+    },
+    {
+      "aspects": [
+        "wooper_heart",
+        "female"
+      ],
+      "model": "cobblemon:wooper_heart_female.geo",
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_heart_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "model": "cobblemon:wooper_female.geo",
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_female_shiny.png"
+    },
+    {
+      "aspects": [
+        "wooper_heart",
+        "female",
+        "shiny"
+      ],
+      "model": "cobblemon:wooper_heart_female.geo",
+      "texture": "cobblemon:textures/pokemon/0194_wooper/wooper_heart_female_shiny.png"
+    }
+  ]
+}

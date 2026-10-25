@@ -1,0 +1,81 @@
+{
+  "species": "cobblemon:electrode",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:electrode",
+      "model": "cobblemon:electrode.geo",
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_shiny.png"
+    },
+    {
+      "aspects": [
+        "color-lime"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_lime.png",
+      "layers": [
+        {
+          "name": "lime",
+          "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_watermelon_lime.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-green"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_green.png",
+      "layers": [
+        {
+          "name": "green",
+          "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_watermelon_green.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-lime",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_lime_shiny.png",
+      "layers": [
+        {
+          "name": "lime",
+          "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_watermelon_lime.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-green",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_green_shiny.png",
+      "layers": [
+        {
+          "name": "green",
+          "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_watermelon_green.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "emissive": true,
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0101_electrode/electrode_alpha.png"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "species": "cobblemon:rillaboom",
+  "order": 50,
+  "variations": [
+    {
+      "aspects": [
+        "wood-acacia"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_acacia.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_acacia.png"
+    },
+    {
+      "aspects": [
+        "wood-acacia",
+        "shiny"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_acacia_shiny.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_acacia_shiny.png"
+    },
+    {
+      "aspects": [
+        "wood-apricorn"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_apricorn.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_apricorn.png"
+    },
+    {
+      "aspects": [
+        "wood-apricorn",
+        "shiny"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_apricorn_shiny.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_apricorn_shiny.png"
+    },
+    {
+      "aspects": [
+        "wood-birch"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_birch.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_birch.png"
+    },
+    {
+      "aspects": [
+        "wood-birch",
+        "shiny"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_birch_shiny.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_birch_shiny.png"
+    },
+    {
+      "aspects": [
+        "wood-cherry"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_cherry.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_cherry.png"
+    },
+    {
+      "aspects": [
+        "wood-cherry",
+        "shiny"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_cherry_shiny.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_cherry_shiny.png"
+    },
+    {
+      "aspects": [
+        "wood-darkoak"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_dark_oak.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_dark_oak.png"
+    },
+    {
+      "aspects": [
+        "wood-darkoak",
+        "shiny"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_dark_oak_shiny.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_dark_oak_shiny.png"
+    },
+    {
+      "aspects": [
+        "wood-jungle"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_jungle.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_jungle.png"
+    },
+    {
+      "aspects": [
+        "wood-jungle",
+        "shiny"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_jungle_shiny.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_jungle_shiny.png"
+    },
+    {
+      "aspects": [
+        "wood-mangrove"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_mangrove.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_mangrove.png"
+    },
+    {
+      "aspects": [
+        "wood-mangrove",
+        "shiny"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_mangrove_shiny.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_mangrove_shiny.png"
+    },
+    {
+      "aspects": [
+        "wood-oak"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_oak.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_oak.png"
+    },
+    {
+      "aspects": [
+        "wood-oak",
+        "shiny"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_oak_shiny.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_oak_shiny.png"
+    },
+    {
+      "aspects": [
+        "wood-saccharine"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_saccharine.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_saccharine.png"
+    },
+    {
+      "aspects": [
+        "wood-saccharine",
+        "shiny"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_saccharine_shiny.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_saccharine_shiny.png"
+    },
+    {
+      "aspects": [
+        "wood-spruce"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_spruce.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_spruce.png"
+    },
+    {
+      "aspects": [
+        "wood-spruce",
+        "shiny"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0812_rillaboom/wood/rillaboom_spruce_shiny.png"
+        }
+      ],
+      "texture": "cobblemon:textures/pokemon/0812_rillaboom/rillaboom_spruce_shiny.png"
+    }
+  ]
+}

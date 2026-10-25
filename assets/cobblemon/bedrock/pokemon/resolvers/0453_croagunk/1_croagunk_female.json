@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:croagunk",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:croagunk_female.geo",
+      "texture": "cobblemon:textures/pokemon/0453_croagunk/croagunk_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0453_croagunk/croagunk_female_shiny.png"
+    }
+  ]
+}

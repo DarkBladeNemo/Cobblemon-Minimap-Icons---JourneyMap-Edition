@@ -1,0 +1,163 @@
+{
+  "species": "cobblemon:flabebe",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:flabebe",
+      "model": "cobblemon:flabebe.geo",
+      "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "flower-blue"
+      ],
+      "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_blue.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_flower_blue.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "flower-orange"
+      ],
+      "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_orange.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_flower_orange.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "flower-yellow"
+      ],
+      "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_yellow.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_flower_yellow.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "flower-white"
+      ],
+      "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_white.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_flower_white.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "flower-red"
+      ],
+      "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_red.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_flower_red.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "flower-pink"
+      ],
+      "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_pink.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_flower_pink.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "flower-blue",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_blue_shiny.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_flower_blue.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "flower-orange",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_orange_shiny.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_flower_orange.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "flower-yellow",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_yellow_shiny.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_flower_yellow.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "flower-white",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_white_shiny.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_flower_white.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "flower-red",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_red_shiny.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_flower_red.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "flower-pink",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_pink_shiny.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_flower_pink.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "emissive": true,
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0669_flabebe/flabebe_alpha.png"
+        }
+      ]
+    }
+  ]
+}

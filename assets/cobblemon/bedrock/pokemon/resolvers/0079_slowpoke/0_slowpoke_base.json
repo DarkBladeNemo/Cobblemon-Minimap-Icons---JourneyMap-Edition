@@ -1,0 +1,76 @@
+{
+  "species": "cobblemon:slowpoke",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:slowpoke",
+      "model": "cobblemon:slowpoke.geo",
+      "texture": "cobblemon:textures/pokemon/0079_slowpoke/slowpoke_regrown_tail_1.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "regrown-tail-1"
+      ],
+      "texture": "cobblemon:textures/pokemon/0079_slowpoke/slowpoke_regrown_tail_2.png"
+    },
+    {
+      "aspects": [
+        "regrown-tail-1",
+        "regrown-tail-2"
+      ],
+      "texture": "cobblemon:textures/pokemon/0079_slowpoke/slowpoke_regrown_tail_3.png"
+    },
+    {
+      "aspects": [
+        "regrown-tail-1",
+        "regrown-tail-2",
+        "regrown-tail-3"
+      ],
+      "texture": "cobblemon:textures/pokemon/0079_slowpoke/slowpoke.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0079_slowpoke/slowpoke_regrown_tail_1_shiny.png"
+    },
+    {
+      "aspects": [
+        "regrown-tail-1",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0079_slowpoke/slowpoke_regrown_tail_2_shiny.png"
+    },
+    {
+      "aspects": [
+        "regrown-tail-1",
+        "regrown-tail-2",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0079_slowpoke/slowpoke_regrown_tail_3_shiny.png"
+    },
+    {
+      "aspects": [
+        "regrown-tail-1",
+        "regrown-tail-2",
+        "regrown-tail-3",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0079_slowpoke/slowpoke_shiny.png"
+    },
+    {
+      "aspects": [
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "emissive": true,
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0079_slowpoke/slowpoke_alpha.png"
+        }
+      ]
+    }
+  ]
+}
